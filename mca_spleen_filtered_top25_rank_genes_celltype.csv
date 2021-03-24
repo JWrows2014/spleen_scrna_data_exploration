@@ -1,0 +1,26 @@
+,B cell,T cell,macrophage,natural killer cell
+0,Cd79a,Trbc2,Tyrobp,Ccl5
+1,Ebf1,Cd3d,Fcer1g,Nkg7
+2,Cd79b,Cd3g,Cst3,Fcer1g
+3,Ly6d,Trac,Atox1,AW112010
+4,Iglc2,Ms4a4b,Ftl1,Tyrobp
+5,Iglc3,Cd3e,Gpx1,Klrd1
+6,Ms4a1,Lck,Alox5ap,Klrk1
+7,Fcmr,Lat,Ifitm3,Id2
+8,H2-DMb2,Thy1,Spi1,Ms4a4b
+9,H2-Eb1,Ms4a6b,Tmsb4x,Klre1
+10,H2-Aa,Cd28,Ifitm2,Ctsw
+11,H2-Ab1,Skap1,Sat1,Klrb1c
+12,Cd74,Fxyd5,Taldo1,H2-D1
+13,Mef2c,Hcst,Lst1,Tmsb10
+14,Gm43603,AW112010,S100a6,Txk
+15,Mzb1,Saraf,Lgals3,Tmsb4x
+16,Ighd,Trbc1,H2afz,H2afz
+17,Bank1,Fyb,S100a4,Ctsd
+18,Igkc,Tcf7,Psap,Selplg
+19,H2-Ob,Nkg7,Lyz2,Cd7
+20,Siglecg,Cd247,Plbd1,H2-K1
+21,Cd19,Tmsb10,Shfm1,Klrc2
+22,Cd24a,Arl4c,Ifitm6,Pfn1
+23,Ralgps2,Bcl11b,Ms4a6c,Anxa2
+24,Tnfrsf13c,Cd27,Gm2a,Xcl1

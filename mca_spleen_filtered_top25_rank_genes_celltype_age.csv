@@ -1,0 +1,26 @@
+,oldB cell,oldT cell,oldmacrophage,oldnatural killer cell,youngB cell,youngT cell,youngmacrophage,youngnatural killer cell
+0,Cd79a,Trbc2,Tyrobp,Ccl5,Cd79a,Trbc2,Tyrobp,Ccl5
+1,Cd79b,Cd3g,Fcer1g,AW112010,H2-Aa,Cd3d,Cst3,Nkg7
+2,H2-Aa,Cd3d,Ftl1,Tyrobp,Ebf1,Cd3g,Fcer1g,Fcer1g
+3,Cd74,Trac,Atox1,Nkg7,Cd74,Ms4a4b,Atox1,AW112010
+4,H2-Eb1,Cd3e,Cst3,Fcer1g,H2-Eb1,Trac,Ftl1,Tyrobp
+5,H2-Ab1,Ms4a4b,Gpx1,Klrk1,H2-Ab1,Tmsb10,Gpx1,Klrd1
+6,H2-DMb2,Lck,Ifitm3,Ms4a4b,Iglc2,Thy1,Alox5ap,Klrk1
+7,Igkc,Lat,Spi1,Klrd1,Ly6d,Cd3e,Ifitm3,Id2
+8,Ly6d,AW112010,Alox5ap,Id2,Cd79b,Lck,S100a4,Klre1
+9,Ms4a1,Cd28,Ifitm2,Klre1,Iglc3,Rplp1,Tmsb4x,Klrb1c
+10,Iglc3,Ms4a6b,Tmsb4x,Ctsw,Ms4a1,Lat,Sat1,Ctsw
+11,Iglc2,Fxyd5,Taldo1,Pfn1,Igkc,Ms4a6b,Spi1,H2-D1
+12,Ighm,Thy1,Lgals3,H2-D1,Ighm,Fxyd5,S100a6,Ms4a4b
+13,Fcmr,Skap1,Sat1,Klrb1c,H2-DMb2,Hcst,H2afz,Tmsb10
+14,Ebf1,Hcst,Lst1,Tmsb10,Mef2c,Cd28,Lst1,Txk
+15,Mzb1,Saraf,S100a6,Selplg,Ighd,Saraf,Ifitm2,H2afz
+16,H2-DMa,Trbc1,H2afz,H2-K1,Fcmr,Skap1,Taldo1,Tmsb4x
+17,Bank1,Fyb,Psap,Tmsb4x,Gm43603,Tpt1,Lgals3,Ctsd
+18,H2-Oa,Izumo1r,Lyz2,Ctsd,Cd24a,Trbc1,Gm2a,Klrc2
+19,Napsa,Cd27,Txn1,Txk,H3f3a,Rplp2,Psap,Ccl4
+20,Unc93b1,H2-Q7,Gsr,Myl6,Fcer2a,Tcf7,Plbd1,Lgals1
+21,Ctsh,Cd247,Plbd1,Cd7,Bank1,Nkg7,Shfm1,S100a10
+22,Mef2c,Tcf7,Vamp8,Xcl1,Ralgps2,Fyb,Lyz2,Cd7
+23,H2-Ob,H2-K1,Ifitm6,H2afz,H2-Ob,Rps16,Rgs2,Selplg
+24,Cd37,Gimap3,S100a4,Hcst,Cd37,Lef1,Gngt2,Btg2
